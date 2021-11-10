@@ -4,7 +4,7 @@
 
 # CricBot
 
-[![Generic badge](https://img.shields.io/badge/<Version>-<1.0>-<COLOR>.svg)](https://shields.io/) [![Maintainer](https://img.shields.io/badge/maintainer-Raveesh1505-blue)](https://github.com/Raveesh1505) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[[![Generic badge](https://img.shields.io/badge/<Click to download>-<V1.0>-<COLOR>.svg)](https://shields.io/)](https://discord.com/api/oauth2/authorize?client_id=907555855984099348&permissions=8&scope=bot) [![Maintainer](https://img.shields.io/badge/maintainer-Raveesh1505-blue)](https://github.com/Raveesh1505) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 </div>
 

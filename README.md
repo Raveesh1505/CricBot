@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://github.com/Raveesh1505/CricBot/blob/main/CRIC%20BOT.png?raw=true" width="100" height="100">
+<img src="https://github.com/Raveesh1505/CricBot/blob/main/CRIC%20BOT.png?raw=true" width="200" height="200">
 
 # CricBot
 

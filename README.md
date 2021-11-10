@@ -1,8 +1,8 @@
 <div align=center>
 
-# CricBot
+<img src="https://github.com/Raveesh1505/CricBot/blob/main/CRIC%20BOT.png?raw=true" width="100" height="100">
 
-<img src="https://github.com/Raveesh1505/CricBot/blob/main/CRIC%20BOT.png?raw=true" width="500" height="500">
+# CricBot
 
 [![Generic badge](https://img.shields.io/badge/<Version>-<1.0>-<COLOR>.svg)](https://shields.io/) [![Maintainer](https://img.shields.io/badge/maintainer-Raveesh1505-blue)](https://github.com/Raveesh1505) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 

@@ -1,5 +1,6 @@
-#CricBot
-##The ultimate cricket discord bot
+# CricBot
+
+## The ultimate cricket discord bot
 
 ## Table of content
 

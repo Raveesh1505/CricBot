@@ -1,6 +1,13 @@
+<div allign=center>
+
 # CricBot
 
-## The ultimate cricket discord bot
+[![Generic badge](https://img.shields.io/badge/<Version>-<1.0>-<COLOR>.svg)](https://shields.io/) [![Maintainer](https://img.shields.io/badge/maintainer-Raveesh1505-blue)](https://github.com/Raveesh1505) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
+
+
+</div>
 
 ## Table of content
 

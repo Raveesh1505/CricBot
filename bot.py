@@ -112,13 +112,11 @@ class cricBot():
         ## Send start message at beginning
         await ctx.send(embed=embed_start)
 
-        run_ch = ["1", "2", "3", "4", "5", "6"]
-
         user_score = 0
         user_wick = 0
         sys_score = 0
         sys_wick = 0
-        sys_ch = int(random.choice(run_ch))
+        sys_ch = random.randint(1, 6)
 
         # User batting
 

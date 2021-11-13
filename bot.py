@@ -11,7 +11,7 @@ import asyncio
 from collections import UserList
 import os
 import random
-from random import choice
+from random import choice, randrange
 import dotenv
 from dotenv import load_dotenv, find_dotenv
 import discord
@@ -140,7 +140,7 @@ class cricBot():
         user_wick = 0
         sys_score = 0
         sys_wick = 0
-        sys_ch = random.randint(1, 6)
+        sys_ch = random.randrange(start = 1, stop = 6)
         sys_toss = random.choice(toss_choice)
 
         # Toss

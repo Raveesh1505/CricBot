@@ -31,3 +31,5 @@ Examples of unacceptable behavior by participants include:
 ## Attribution
 
 This Code of Conduct is adapted from [The Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+
+<small> Cricbot - The ultimate cricket experience on Discord!!! </small> 

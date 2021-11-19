@@ -3,7 +3,7 @@ Copyright © Raveesh Yadav 2021 - htts://github.com/Raveesh1505
 Description:
 A Discord bot that plays cricket with the user.
 
-Version: 1.11 (update)
+Version: 1.1
 """
 
 # Importing all libraries
@@ -11,7 +11,7 @@ import asyncio
 from collections import UserList
 import os
 import random
-from random import choice, randrange
+from random import choice
 import dotenv
 from dotenv import load_dotenv, find_dotenv
 import discord
@@ -24,12 +24,9 @@ TOKEN = os.getenv('BOTTOKEN')
 # Registring the client
 client = commands.Bot(command_prefix=">")
 
-"""
-The event below pings on the terminal when the Bot is ready.
-This will be used to keep activity track for hosting and
-up time of the bot.
-"""
-
+# Once the bot is connected
+# this will ping on terminal
+# the bot is ready
 @client.event
 async def on_ready():
     print("The bot is ready!")
@@ -143,7 +140,7 @@ class cricBot():
         user_wick = 0
         sys_score = 0
         sys_wick = 0
-        sys_ch = random.randrange(start = 1, stop = 6)
+        sys_ch = random.randint(1, 6)
         sys_toss = random.choice(toss_choice)
 
         # Toss

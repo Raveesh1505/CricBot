@@ -3,7 +3,7 @@ Copyright © Raveesh Yadav 2021 - htts://github.com/Raveesh1505
 Description:
 A Discord bot that plays cricket with the user.
 
-Version: 1.11
+Version: 1.11 (update)
 """
 
 # Importing all libraries
